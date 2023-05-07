@@ -1,318 +1,73 @@
-{
-    "resource": [
-        {
-            "name": "कक्षा १० सामाजिक विकास र विकासका पूर्वाधार class 10 social chapter 2 all lessons exercise solved",
-            "category": "Social",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=A_FwfwIyB8M"
-        },
-        {
-            "name":"उज्यालो यात्राको सम्पुर्ण अभ्यास | Class 10 nepali chapter 1 exercise | Class 10 nepali guide 2080",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=FhRVtYk91ok"
-        },
-         {
-            "name":"Nepali Class 8-Sakar Sapana/ साकार सपना -पूरा अभ्यास सहित/Lesson 2 /PLR Education ",
-            "category":"Nepali ",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=IwzE7rlchwg"
-        },
-         {
-            "name":"कक्षा–८। नेपाली । एकाइ–१ । पाठ– नेपाल (कविता)",
-            "category":"Nepali",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=1yRQjR6uD7Y&list=PLVOHiHZt8InJr2wXWtjQSUT1hLtPiJJlI"
-        },
-         {
-            "name":"कक्षा–८। नेपाली । पाठ – २ । भाग्य कथा ।",
-            "category":"Nepali",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=dNnkquyI4cQ&list=PLVOHiHZt8InJr2wXWtjQSUT1hLtPiJJlI&index=4"
-        },
-         {
-            "name":"८. कक्षा–८। नेपाली । पाठ – ३। देवकुमारी थापा जीवनी ।",
-            "category":"Nepali",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=Gh4MEfiL6Og&list=PLVOHiHZt8InJr2wXWtjQSUT1hLtPiJJlI&index=8"
-        },
-         {
-            "name":"१२. कक्षा–८ । नेपाली । पाठ – ४ । ग्रन्थचित्र प्रबन्ध ।",
-            "category":"Nepali",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=1QBjb2ng-dU&list=PLVOHiHZt8InJr2wXWtjQSUT1hLtPiJJlI&index=12"
-        },
-         {
-            "name":"Map work Nepal",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=w-nmgXVYCq8&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD"
-        },
-         {
-            "name":"२ सामाजिक अध्ययन, नक्सा कार्य नेपाल – २, Map Work Nepal",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=WUJsavqgaZk&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=2"
-        },
-         {
-            "name":"१। कक्षा–८। सामाजिक अध्ययन । एकाइ–१ । हामी । हाम्रो समुदाय र राष्ट्र । पाठ– १ विकास",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=ItUK-A-IIZI&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=3"
-        },
-         {
-            "name":"२. कक्षा–८ । सामाजिक अध्ययन तथा जनसङ्ख्या शिक्षा । एकाइ– १ ।पाठ –२ ।सङ्घीय राज्य र प्रदेश ।",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=yMHwc0Su3uM&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=4"
-        },  
-         {
-            "name":"२. कक्षा–८ । सामाजिक अध्ययन तथा जनसङ्ख्या शिक्षा । एकाइ– १ ।पाठ –२ ।सङ्घीय राज्य र प्रदेश ।
-",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=yMHwc0Su3uM&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=4"
-        },
-         {
-            "name":"३. कक्षा–८। सामाजिक अध्ययन र जनसङ्ख्या शिक्षा । पाठ – ३। पाठ शीर्षक – खाने पानी।",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=x_9YbbCXlS8&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=5"
-        },
-         {
-            "name":"४ . कक्षा–८ । सामाजिक अध्ययन र जनसङ्ख्या शिक्षा । पाठ – १ । उर्जा ।",
-            "category":"Social Studies",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=w02DLFVB-0k&list=PLVOHiHZt8InIJ8ct-YlPZgJDIxRhqzYaD&index=6"
-        },
-          {
-            "name":"1. Class 8 Science Unit 1 Measurement नाप",
-            "category":"Science",
-            "class":"8",
-            "link":"	https://www.youtube.com/watch?v=kUNvJvB5v6g&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw"
-        },
-          {
-            "name":"2. Class 8 Science Unit 2 Velocity and Acceleration गति र प्रवेग",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=pMERII7hJ7c&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=2"
-        },
-         {
-            "name":"3. Class 8 Science Unit 2 Equation of Velocity and Acceleration with Numericals गति र प्रवेग",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=4NgDmKtuRHc&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=3"
-        },
-          {
-            "name":"4. Class 8 Science Unit 3 Simple Machine सरल यन्त्र",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=dVNsbwtw97U&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=4"
-        },
-         {
-            "name":"5. Class 8 Science Unit 4 Pressure चाप",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=i6qMTOUdi6g&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=5"
-        },
-         {
-            "name":"6. Class-8 | Science and Environment | Unit-4 | Pressure |",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=bqTXspzJIPQ&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=6"
-        },
-          {
-            "name":"7. Class 8 । Science । Unit 5 । Work, Energy and power ।",
-            "category":"Science",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=Bvw-INM2H4c&list=PLVOHiHZt8InLjA-6V2aKe_iS5c_cctfrw&index=7"
-        },
-         {
-            "name":"1. Class 8 Mathematics Unit 1 Line and Angle",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=5ZP_duI_ezY&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g"
-        },
-        {
-            "name":"2. Class 8 Mathematics Unit 1 Line and Angle II",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=Q4cupGjCL7Q&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g&index=2"
-        },
-        {
-            "name":"3. Class 8 Mathematics Unit 1 Line and Angle III",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=6Cb41OZyBHk&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g&index=3"
-        },
-        {
-            "name":"4. Class 8 Mathematics Unit 1 Line and Angle IV",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=_1l-CNM4t5Y&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g&index=4"
-        },
-        {
-            "name":"5. Class 8 Mathematics Unit 1 Line and Angle V",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=Kn3_EdhIiaE&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g&index=5"
-        },
-        {
-            "name":6. Class 8। Mathematics। Unit 2। Triangle, Quadrilateral and Polygons",
-            "category":"Mathematics",
-            "class":"8",
-            "link":"https://www.youtube.com/watch?v=UeeHAxDo3h0&list=PLVOHiHZt8InKNsnuBAfE6gQ-tTTGWff6g&index=6"
-        },
-        {
-            "name":"Map work Nepal",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=w-nmgXVYCq8&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b"
-        }, 
-          {
-            "name":"२ सामाजिक अध्ययन, नक्सा कार्य नेपाल – २, Map Work Nepal",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=WUJsavqgaZk&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=2"
-        }, 
-          {
-            "name":"Social 2074 10 17 Map Work II Nepal",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=YwoYMokNWzY&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=3"
-        }, 
-          {
-            "name":"Social  10 14 Long Answer Question",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=mtG_IAmnjw0&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=4"
-        }, 
-          {
-            "name":"Social  10 11 Short Answer Question",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=MI288_txHCw&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=5"
-        }, 
-           {
-            "name":"Social North America Map Work",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=ukFvWwB2eDQ&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=37"
-        }, 
-           {
-            "name":"Social North America Physical Structure",
-            "category":"Social Studies",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=pbM_laZpya0&list=PLVOHiHZt8InIcAlUIXUdxv4efWRhyeJ0b&index=38"
-        }, 
-          {
-            "name":"Mathematics Model Question Probability and Statistics",
-            "category":"Mathematics",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=0JVS6ZXhpc0&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7"
-        }, 
-        {
-            "name":"Mathematics Model Question Trigonometry",
-            "category":"Mathematics",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=yvfliKhmn1I&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7&index=2"
-        }, 
-        {
-            "name":"Mathematics Model Question Geometry II",
-            "category":"Mathematics",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=JsE6EBCO5YM&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7&index=3"
-        }, 
-        {
-            "name":"Mathematics Model Question (Geometry)",
-            "category":"Mathematics",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=kP2EasrhcSc&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7&index=4"
-        }, 
-        {
-            "name":"Mathematics Model Question Algebra 2",
-            "category":"Mathematics",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=yAvPS6RsEBU&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7&index=5"
-        }, 
-        {
-            "name":"Mathematicshttps://www.youtube.com/watch?v=wpdKr5FOVrQ&list=PLVOHiHZt8InIX__Laiuj-h82n_izD7GC7&index=6 Model Question (Algebra)",
-            "category":"Mathematics",
-            "class":"10",
-            "link":""
-        }, 
-       {
-            "name":"Science Model Question Group D II",
-            "category":"Science",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=u3cwi4E9_2Y&list=PLVOHiHZt8InKHNVXiL8lmYbASDsj3tfq3"
-        }, 
-          {
-            "name":"Science 2074 10 19 Model Question (Group D)",
-            "category":"Science",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=MSp2KZVWdwA&list=PLVOHiHZt8InKHNVXiL8lmYbASDsj3tfq3&index=2"
-        }, 
-          {
-            "name":"Science 2074 10 18 Group C (Model Quesiton-2)",
-            "category":"Science",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=KPgkNrufYQQ&list=PLVOHiHZt8InKHNVXiL8lmYbASDsj3tfq3&index=3"
-        }, 
-          {
-            "name":"Science 2074 10 15 Group C (Model Quesiton)",
-            "category":"Science",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=MvGJbcyGGzE&list=PLVOHiHZt8InKHNVXiL8lmYbASDsj3tfq3&index=4"
-        }, 
+const URL =
+  "resources.json";
+setTimeout(feed_more, 2500);
+setInterval(feed_more, 10000);
+feed_more();
+function feed_more() {
+  let main = document.querySelector("div");
+  main.className = "main";
+  console.log("Succesfully loaded more data.");
+  fetch(URL)
+    .then(response => response.json())
+    .then(data => {
+      // data.posts[].thumbnail, data.posts[].name
+      data.post.forEach(post => {
+        let container = document.createElement("div");
+        container.className = ".container";
+        let card = document.createElement("div");
+        card.className = "card";
+        //card elements{
+        let card_header = document.createElement("div");
+        card_header.className = "card_header";
 
-          {
-            "name":"Science 2074 10 12 Group B (Model Questions)",
-            "category":"Science",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=o4mYR46hdhI&list=PLVOHiHZt8InKHNVXiL8lmYbASDsj3tfq3&index=5"
-        }, 
-          {
-            "name":"Nepali 2074 10 17 स्वतन्त्र रचना",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=prvHi3qUuQY&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI"
-        }, 
-         {
-            "name":"Nepali 2075 08 14 भाव विस्तार, व्याख्या र सप्रसंग व्याख्या",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=qnp10iAQUqw&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=2"
-        }, 
-         {
-            "name":"Nepali 2074 10 11 पठनबोध , सारांश र निर्देशित रचना",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=ZeCQr_zSBkA&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=3"
-        }, 
-         {
-            "name":"Nepali 2074 10 09 प्रश्नोत्तर अभ्यास",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=TDBZNWQQ5KU&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=4"
-        }, 
-         {
-            "name":"Nepali 2074 10 07 प्रश्नपत्रको ढाँचा, शब्दभण्डार, हिज्जे",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=BAQZqPeTXPo&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=5"
-        }, 
-         {
-            "name":"Nepali 2074 10 07 प्रश्नपत्रको ढाँचा, शब्दभण्डार, हिज्जे",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=BAQZqPeTXPo&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=6"
-        }, 
-          {
-            "name":"https://www.youtube.com/watch?v=BAQZqPeTXPo&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=6",
-            "category":"Nepali",
-            "class":"10",
-            "link":"https://www.youtube.com/watch?v=zPii6ZvTr50&list=PLVOHiHZt8InI3sBC7osgT1_JIgmY8cIYI&index=7"
-        }, 
-            ]
+
+        let card_body = document.createElement("div");
+        card_body.className = "card_body";
+        let category_span = document.createElement("span");
+        category_span.textContent = post.category;
+        category_span.classList += "tag tag-blue";
+        if (post.thumbnail !== "not-available") {
+          
         }
+
+        let card_article = document.createElement("p");
+        card_article.textContent = post.article;
+        let card_footer = document.createElement("div");
+        card_footer.className = "card_footer";
+        let card_source = document.createElement("div");
+        card_source.className = "user";
+        let card_source_info = document.createElement("div");
+        card_source_info.className = "user_info";
+        let card_source_info_h5 = document.createElement("span");
+        // card_source_info_h5.style.textAlign = "center";
+        card_source_info_h5.textContent = post.source.replace("fb", "Facebook Page");
+        let card_src_img = document.createElement("img");
+        card_src_img.classList = "icon round";
+        card_src_img.src = `../assets/icons/${post.source}.jpg`;
+        let card_headings = document.createElement("h4");
+        main.appendChild(container);
+        container.appendChild(card);
+        card_headings.textContent = post.name;
+        card_body.appendChild(card_headings);
+        card_body.appendChild(card_article);
+        if (post.thumbnail != "not-available") {
+          let thumbnail = document.createElement("img");
+          thumbnail.src = `http://localhost/github/devsdenepal.github.io/dcn.com/assets/images/${post.thumbnail}`;
+          thumbnail.alt = post.name;
+          thumbnail.className = "card_image";
+          card_header.appendChild(thumbnail);
+        }
+        card.appendChild(card_header);
+        card_header.appendChild(category_span);
+        card.appendChild(card_body);
+        card.appendChild(card_footer);
+        card_footer.appendChild(card_source);
+        card_footer.appendChild(card_source_info);
+        card_source_info.appendChild(card_source_info_h5);
+        card_source.appendChild(card_src_img);
+        card_footer.appendChild(document.createElement("br"));
+        card_headings.appendChild(document.createElement("br"));
+        card_footer.appendChild(document.createElement("br"));
+      });
+    });
+}
